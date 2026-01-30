@@ -39,7 +39,6 @@
 - [Configuration](#-configuration)
 - [Troubleshooting](#-troubleshooting)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -481,13 +480,6 @@ npm run seed
 4. Push to branch (`git push origin feature/amazing`)
 5. Open Pull Request
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
 
